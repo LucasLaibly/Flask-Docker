@@ -7,4 +7,4 @@ Build:
 2. `docker run -d -p 5000:5000 <imageName>`
 
 Down:
-1. `docker stop <imageid>`
+1. `docker stop <container id>`
